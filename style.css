@@ -1,0 +1,25 @@
+.Form{
+	border:10px;
+	border-radius:5px;
+	background-color:#A9A9A9;
+	display: inline-block;
+	vertical-align:top;
+	border-color:black;
+}
+body{
+	background-image:url("123.jpg");
+}
+.error{
+	border: 2px solid red;
+}
+.good{
+	border:2px solid yellow;
+	background-color: yellow;
+}
+#events{
+	border-radius:10px;
+	border-color:black;
+	background-color:blue;
+	text-align:center;
+	color:white;
+}
